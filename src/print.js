@@ -1,3 +1,3 @@
 export default function printMe() {
-  console.log('I get  11 !');
+    console.log('Updating 1223314441.js...')
 }
